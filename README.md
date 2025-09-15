@@ -45,7 +45,7 @@ Execute the main script from your terminal. It will automatically read all the f
 
 ```bash
 python main.py
-``
+```
 
 ## 📄 License
 
